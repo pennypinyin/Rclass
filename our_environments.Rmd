@@ -1,7 +1,7 @@
 ## 第九組
 ### week4_團體任務2
 
-```{r data.entry,echo=TRUE}
+```{r ,echo=TRUE}
 list(
   Penny = "x86_64-apple-darwin13.4.0 (64-bit)",
   Eva = "x86_64-w64-mingw32/x64 (64-bit)",
